@@ -5,7 +5,6 @@
  *               unordered map to store the coordinates of specific points and a function to
  *               perform the calculation.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265
  *  Date: 2024.10.15
 ***************************************************/
 

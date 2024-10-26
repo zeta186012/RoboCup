@@ -4,7 +4,6 @@
  *               The struct can represent points in Cartesian coordinates (x, y).
  *               It includes a constructor for initializing PointVec objects.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265
  *  Date: 2024.10.15
 ***************************************************/
 

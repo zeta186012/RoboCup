@@ -7,7 +7,6 @@
  *               coordinates and to compute its length 
  *               using the Pythagorean theorem.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265 
  *  Date: 2024.10.6
 ********************/
 

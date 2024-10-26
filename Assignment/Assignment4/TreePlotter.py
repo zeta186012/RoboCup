@@ -1,6 +1,5 @@
 """
 Filename: TreePlotter.py
-Author: 郑鑫业 2023217265 计算机23-1
 Note: This script is used to visualize a decision tree using matplotlib.
 """
 

@@ -6,7 +6,6 @@
  *               The program reads input from standard input, processes each line,
  *               and outputs the calculated coordinates.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265
  *  Date: 2024.10.15
 ***************************************************/
 

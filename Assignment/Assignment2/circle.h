@@ -7,7 +7,6 @@
  *               a member function to check if a given 
  *               point lies within the circle.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265 
  *  Date: 2024.10.6
 ********************/
 

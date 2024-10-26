@@ -1,2 +1,0 @@
-在2023周期hear从10方向听到了“dash”;
-在2023周期see player hfut 8距离我的Direction是10,Distance是20,DistChng是1,DirChng是2,它的BodyDir是6和HeadDir是8;player hfut 9距离我的Direction是6,Distance是7,DistChng是8,DirChng是10,它的BodyDir是20和HeadDir是3;f r t 10距离我的Direction是15,Distance是20;结束

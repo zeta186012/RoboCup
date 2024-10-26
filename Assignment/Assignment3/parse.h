@@ -3,7 +3,6 @@
  *  Description: This file defines a class Parse that is used to parse input strings.
  *               The class provides methods to parse symbols (letters) and numbers from the input.
  *  
- *  Author: 计算机23-1郑鑫业 2023217265
  *  Date: 2024.10.15
 ***************************************************/
 

@@ -1,6 +1,5 @@
 """
 Filename: main.py
-Author: 郑鑫业 2023217265 计算机23-1
 Note: This script is used to build and visualize a decision tree using the ID3 algorithm.
 """
 
